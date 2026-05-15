@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "116591580819",
+    "firebase_url": "https://deepmriscan-default-rtdb.firebaseio.com",
+    "project_id": "deepmriscan",
+    "storage_bucket": "deepmriscan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116591580819:android:e7c0b29a6ee6ea64bc5f66",
+        "android_client_info": {
+          "package_name": "com.example.deepmriscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKopBYiIL-LHUVj4wKWp_EtehfG6mjYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

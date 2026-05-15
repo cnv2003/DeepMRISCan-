@@ -1,0 +1,54 @@
+{
+  "users": {
+    "UNHRZfS3F0fI4ppnWk3NPc1nrL72": {
+      "email": "user@gmail.com",
+      "history": {
+        "5f9f3032-216d-4e6a-ba77-9727d130c1e0": {
+          "confidence": 57.673799991607666,
+          "inputImage": "https://firebasestorage.googleapis.com/v0/b/deepmriscan.firebasestorage.app/o/mri_uploads%2F-Ons97IX20gn0IZKo-VO.jpg?alt=media&token=5543b506-9498-4b4f-a19d-82b3da5d6de0",
+          "prediction": "no_tumor",
+          "segmentedImage": "https://storage.googleapis.com/deepmriscan.firebasestorage.app/results/UNHRZfS3F0fI4ppnWk3NPc1nrL72_f318118f-3194-403f-9ada-c33505e6732f.jpg",
+          "timestamp": 1773689943653
+        },
+        "623bd25a-d677-4b9c-aae3-2968944e56d5": {
+          "confidence": 77.18519568443298,
+          "inputImage": "https://firebasestorage.googleapis.com/v0/b/deepmriscan.firebasestorage.app/o/mri_uploads%2F-Ons9AhL-73oCjSkLL5k.jpg?alt=media&token=8449cc41-e720-4b61-8484-3f34bbdf0c50",
+          "prediction": "meningioma",
+          "segmentedImage": "https://storage.googleapis.com/deepmriscan.firebasestorage.app/results/UNHRZfS3F0fI4ppnWk3NPc1nrL72_3d1acfd8-a2fb-41fc-8785-94c8ddb65afb.jpg",
+          "timestamp": 1773689959007
+        },
+        "a1df9286-b92e-4473-9808-53acc9c26807": {
+          "confidence": 52.277153730392456,
+          "inputImage": "https://firebasestorage.googleapis.com/v0/b/deepmriscan.firebasestorage.app/o/mri_uploads%2F-Ons91rRWaQDyEsfs2MG.jpg?alt=media&token=52045db0-193a-46a4-955b-46b4ecc8af6e",
+          "prediction": "meningioma",
+          "segmentedImage": "https://storage.googleapis.com/deepmriscan.firebasestorage.app/results/UNHRZfS3F0fI4ppnWk3NPc1nrL72_40d62ab1-0e36-4c2e-a156-0864f3ed0d75.jpg",
+          "timestamp": 1773689922519
+        },
+        "dff6ac2f-0ebd-4b2a-8cdd-d7fcfa8503c3": {
+          "confidence": 99.4592010974884,
+          "inputImage": "https://firebasestorage.googleapis.com/v0/b/deepmriscan.firebasestorage.app/o/mri_uploads%2F-Ons8xlrNvLMAL2lOAUX.jpg?alt=media&token=d8f8b967-59ef-4d3c-8e41-a85d78739d92",
+          "prediction": "glioma",
+          "segmentedImage": "https://storage.googleapis.com/deepmriscan.firebasestorage.app/results/UNHRZfS3F0fI4ppnWk3NPc1nrL72_0925ce1a-80c9-413a-8651-788835374da6.jpg",
+          "timestamp": 1773689897736
+        },
+        "e29ef2c4-3347-429a-93d6-b248633b940c": {
+          "confidence": 63.14008831977844,
+          "inputImage": "https://firebasestorage.googleapis.com/v0/b/deepmriscan.firebasestorage.app/o/mri_uploads%2F-Ons8c5OJhFIv-vqmLIn.jpg?alt=media&token=bbba0c3b-74cd-4f55-881e-51efa682ffe4",
+          "prediction": "glioma",
+          "segmentedImage": "https://storage.googleapis.com/deepmriscan.firebasestorage.app/results/UNHRZfS3F0fI4ppnWk3NPc1nrL72_99dbe7c6-5fc9-431c-8182-ebaaa246ed4b.jpg",
+          "timestamp": 1773689813708
+        }
+      },
+      "liveUpload": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/deepmriscan.firebasestorage.app/o/mri_uploads%2F-Ons9AhL-73oCjSkLL5k.jpg?alt=media&token=8449cc41-e720-4b61-8484-3f34bbdf0c50",
+        "isNew": false,
+        "timestamp": 1773689949087
+      },
+      "name": "User"
+    },
+    "owVUdPa8Q3gwxJcFOMGmluzN7r52": {
+      "email": "admin@gmail.com",
+      "name": "Admin"
+    }
+  }
+}
